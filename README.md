@@ -46,4 +46,4 @@ We've changed designs for parts below:
 ![cards1](../images/cards1.png)
 ![cards2](../images/cards2.png)
 
-Created by: [here](https://tjd-studio.com).
+Created by: [TJD STUDIO](https://tjd-studio.com).
