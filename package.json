@@ -1,0 +1,19 @@
+{
+  "name": "tjdbs4",
+  "version": "1.0.4",
+  "description": "Customize bootstrap 4.1.x style",
+  "homepage": "https://github.com/robertnicjoo/tjdbs4/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tjd",
+    "studio",
+    "tjd",
+    "tjdstudio",
+    "tjdbs4"
+  ],
+  "author": "Robert Nicjoo <robert@tjd-studio.com> (https://tjd-studio.com)",
+  "license": "ISC"
+}
