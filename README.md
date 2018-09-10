@@ -1,6 +1,8 @@
 # Overview
 
 Customizing Bootstrap 4.1.x style
+[![NPM](https://nodei.co/npm/tjdbs4.png?mini=true)](https://nodei.co/npm/tjdbs4/)
+
 
 # Changes
 
@@ -35,8 +37,6 @@ We've changed designs for parts below:
 * Shadows
 
 # Screenshots
-
-[![NPM](https://nodei.co/npm/tjdbs4.png?mini=true)](https://nodei.co/npm/tjdbs4/)
 
 ![alerts](../images/alerts.png)
 ![buttons1](../images/buttons1.png)
