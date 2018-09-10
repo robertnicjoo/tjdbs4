@@ -1,11 +1,18 @@
 {
   "name": "tjdbs4",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Customize bootstrap 4.1.x style",
   "homepage": "https://github.com/robertnicjoo/tjdbs4/",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertnicjoo/tjdbs4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robertnicjoo/tjdbs4/issues"
   },
   "keywords": [
     "tjd",
@@ -14,6 +21,10 @@
     "tjdstudio",
     "tjdbs4"
   ],
-  "author": "Robert Nicjoo <robert@tjd-studio.com> (https://tjd-studio.com)",
-  "license": "ISC"
+  "author": {
+    "name": "Robert Nicjoo",
+    "email": "robert@tjd-studio.com",
+    "url": "https://tjd-studio.com"
+  },
+  "license": "MIT"
 }
