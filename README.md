@@ -2,7 +2,7 @@
 
 Customizing Bootstrap 4.1.x style
 
-[![NPM](https://nodei.co/npm/tjdbs4.png?mini=true)](https://nodei.co/npm/tjdbs4/)
+[![NPM](https://nodei.co/npm/@irando/tjdbs4.png?downloads=true&stars=true)](https://www.npmjs.com/package/@irando/tjdbs4/)
 
 
 # Changes
