@@ -47,4 +47,4 @@ We've changed designs for parts below:
 ![cards1](https://raw.githubusercontent.com/robertnicjoo/tjdbs4/master/images/cards1.png)
 ![cards2](https://raw.githubusercontent.com/robertnicjoo/tjdbs4/master/images/cards2.png)
 
-Created by: [TJD STUDIO](https://tjd-studio.com).
+Previously created by TJD STUDIO and currently known as [CV. IRANDO](https://irando.co.id).
